@@ -1,2 +1,3 @@
 # test_Git
-this only for test my naive code
+This only for test the function of git remote repository, 
+please do not fork this repository.
